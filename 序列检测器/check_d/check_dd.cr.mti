@@ -1,0 +1,9 @@
+E:/Modulsim/check_d/check_d.v {1 {vlog -work work -vopt {E:\Modulsim\check_d\check_d.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module check_d
+-- Compiling module D
+
+Top level modules:
+	check_d
+
+} {} {}}

@@ -1,0 +1,16 @@
+E:/Modulsim/check_fsm/fsm_tb.v {1 {vlog -work work -vopt E:/Modulsim/check_fsm/fsm_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module check_tb
+
+Top level modules:
+	check_tb
+
+} {} {}} E:/Modulsim/check_fsm/fsm.v {1 {vlog -work work -vopt E:/Modulsim/check_fsm/fsm.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module check
+-- Compiling module fsm
+
+Top level modules:
+	check
+
+} {} {}}

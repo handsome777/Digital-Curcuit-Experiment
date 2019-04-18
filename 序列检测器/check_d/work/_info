@@ -1,0 +1,60 @@
+m255
+K3
+13
+cModel Technology
+dF:\Modelsm\examples
+vcheck_d
+VH[Y0KLnRZAMOO]m;Z;Jmk0
+r1
+31
+I;zoZgQ[71>;1:diBD4G971
+Z0 dE:\Modulsim\check_d
+Z1 w1525534737
+Z2 8E:/Modulsim/check_d/check_d.v
+Z3 FE:/Modulsim/check_d/check_d.v
+L0 1
+Z4 OE;L;10.1a;51
+Z5 !s108 1525590859.827000
+Z6 !s107 E:/Modulsim/check_d/check_d.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|E:/Modulsim/check_d/check_d.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s85 0
+!s100 KfDB77hY^@9@Il4IFzo1W0
+vcheck_d_tb
+V=eCg^HVT`;5E@3S`YCThm0
+r1
+31
+IB=fY]^P81jVGmK5X>WAfM2
+Z9 dE:\Modulsim\check_d
+w1525590860
+8E:/Modulsim/check_d/check_d_tb.v
+FE:/Modulsim/check_d/check_d_tb.v
+L0 3
+R4
+R8
+!i10b 1
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|E:/Modulsim/check_d/check_d_tb.v|
+!s100 =U4BWZb?7hNS7LX05M?kR2
+!s108 1525590861.098000
+!s107 E:/Modulsim/check_d/check_d_tb.v|
+vD
+!i10b 1
+VaXedOJE?azQnE>^WJAVQb2
+r1
+!s85 0
+31
+ID^H[h?eL0`A3lG27gPSH^2
+R9
+R1
+R2
+R3
+L0 18
+R4
+R5
+R6
+R7
+R8
+n@d
+!s100 SbDKh[2J6Sd7NT``idG]X2

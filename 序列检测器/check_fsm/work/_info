@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+dE:\Modulsim\Add
+vcheck
+ISI^h]1@gYY>:lfKC0HALO3
+V@kWY^FnZBFD<zkobVK9RW1
+Z0 dE:\Modulsim\check_fsm
+Z1 w1525589289
+Z2 8E:/Modulsim/check_fsm/fsm.v
+Z3 FE:/Modulsim/check_fsm/fsm.v
+L0 1
+Z4 OE;L;10.1a;51
+r1
+31
+Z5 !s108 1525589903.824000
+Z6 !s107 E:/Modulsim/check_fsm/fsm.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|E:/Modulsim/check_fsm/fsm.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 D38DKAKM9Q<@WbE:8@0Vm3
+!i10b 1
+!s85 0
+vcheck_tb
+VKmKE97caVDk6CTCF3SLaj3
+r1
+31
+IJGgGSZKoQ6^fPzj97J;1o0
+Z9 dE:\Modulsim\check_fsm
+w1525589905
+8E:/Modulsim/check_fsm/fsm_tb.v
+FE:/Modulsim/check_fsm/fsm_tb.v
+L0 3
+R4
+R8
+!i10b 1
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|E:/Modulsim/check_fsm/fsm_tb.v|
+!s100 6U9>zS1KbYhGGQ`2:k?BP2
+!s108 1525589905.211000
+!s107 E:/Modulsim/check_fsm/fsm_tb.v|
+vdebounce
+IA32MJa;HF;Vb4jlG6W?>Z3
+Vd>WEgTiGDZo;_CNJld;5f2
+R9
+w1525532795
+R2
+R3
+L0 103
+R4
+r1
+31
+R6
+R7
+R8
+!s100 0AS^H_MHB3=?mI8mbzQ;61
+!s108 1525532796.045000
+!i10b 1
+!s85 0
+vfsm
+!i10b 1
+V:Be^OVBCIEJ>@eTA:`<E_2
+r1
+!s85 0
+31
+Ii5iilVo:mB:f@a4_QS=U93
+R9
+R1
+R2
+R3
+L0 10
+R4
+R5
+R6
+R7
+R8
+!s100 bg[kS?L`KM93;baKS;k223
